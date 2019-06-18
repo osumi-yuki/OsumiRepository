@@ -1,5 +1,6 @@
 <a href="https://githubsfdeploy.herokuapp.com?owner=osumi-yuki&repo=OsumiRepository">
-  <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
 # apex-chartjs-sample
